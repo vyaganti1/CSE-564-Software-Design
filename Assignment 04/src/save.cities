@@ -1,0 +1,7 @@
+NAME : save.cities
+TYPE : TSP
+DIMENSION : 3
+NODE_COORD_SECTION
+1 1391 57 guntur
+2 1030 127 ongole
+3 1027 57 boombay
